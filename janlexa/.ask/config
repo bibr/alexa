@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.3e470e3e-fba4-4507-9582-9cfcbcc5d0d7",
+      "was_cloned": false,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-janlexa-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
